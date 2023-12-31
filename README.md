@@ -451,6 +451,9 @@ out on the Avalanche Discord._
   messages, which will remain signable and in state until a refund action is
   issued)
 
+  ## Author
+     Konsam Sajan Singh
+
 <br>
 <br>
 <br>
@@ -458,6 +461,4 @@ out on the Avalanche Discord._
   <a href="https://github.com/ava-labs/hypersdk"><img width="40%" alt="tokenvm" src="assets/hypersdk.png"></a>
 </p>
 
-## Author
 
-Konsam Sajan Singh
